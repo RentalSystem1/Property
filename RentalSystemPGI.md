@@ -53,3 +53,6 @@ Group Members:
 Mary Joy Rodrigora, Joshua Nato, John Ruzzel Bacia, Carlo Broa
 
 G. Estimated Project Duration: 6-8 months, including research, design, development, testing, and deployment
+
+
+![1241](https://github.com/user-attachments/assets/187346c1-296e-4505-a417-e87c60ac6ba5)
