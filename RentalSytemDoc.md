@@ -12,24 +12,12 @@ Project Features and Characteristics
 The proposed project Rental Management System Web Based consists of the following features:
 
 
-•	Admin Booking Management:
-Admins manage all booking activities, ensuring availability and accurate scheduling.
-•	Profit Monitoring:
-The system allows admins to track and analyze profit margins, aiding financial decision-making.
-•	Payment Processing:
-Facilitates secure payment collection and transaction tracking for room bookings.
-•	Room Management:
-Admins can add, delete, and update room details to maintain an accurate listing.
-•	User-Friendly Booking:
-Users can easily browse rooms and services, then book based on their specific needs
+Search Apartments by location
+View house details and images.
+Check available rental dates.
+Navigate through listings.
+Book available houses with integrated payment methods.
 
-
-
-
-Project Scope
-
-•	The Property Rental Management System is designed to streamline the management of property rentals by providing dedicated functionalities for both admin and users. On the admin side, the system enables comprehensive management of bookings, tracking of profit, processing of payments, and the ability to add or remove property listings. Admins play a crucial role in maintaining the efficiency of the system, ensuring that all data is up-to-date and accurate.
-•	For users, the system offers a seamless experience through a well-organized interface. Users can navigate the homepage, explore services, view available properties, and access contact information. The booking process is simplified, allowing users to reserve properties based on their specific needs. This project aims to provide a convenient and efficient solution for property rentals, making it easier for users to book properties and for property managers to oversee their operations effectively.
 
 
 
