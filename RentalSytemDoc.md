@@ -9,7 +9,8 @@ The property rental industry is constantly evolving, demanding efficient and use
 
 Project Features and Characteristics
 
-The proposed project Rental Management System Web Based consists of the following features:
+Front-End View: 
+This view provides a user-friendly interface for browsing available rural houses. Users can:
 
 
 Search Apartments by location
@@ -17,6 +18,14 @@ View house details and images.
 Check available rental dates.
 Navigate through listings.
 Book available houses with integrated payment methods.
+
+In this view, we have integrated an API, a database, and payment methods for a seamless rental experience. Users can:
+
+Register and log in to their accounts.
+Search for houses by location, size, and amenities.
+Book available houses with integrated payment methods.
+Review their booking history.
+Easily switch back to the front-end view
 
 
 
