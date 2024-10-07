@@ -1,18 +1,34 @@
 
 
-Group Name: GROUP NAME
+Group Name: 
 
-Project Title: Property Rental Management System 
+Project Title: Rental Houses 
 
-A. Problem Statement:
-
-Develop a comprehensive Property Rental Management System that automates and simplifies the entire rental process. The system should enable property owners to efficiently manage property listings, tenant applications, leases, and payments. Tenants should be able to easily search for available properties, submit applications, sign leases, and make payments online. 
-
-The system should also handle maintenance requests, track property inspections, and facilitate communication between tenants and property managers. Additional features may include financial reporting, vacancy tracking, and automated reminders for lease renewals. The goal is to provide an intuitive, user-friendly platform that enhances efficiency for both property owners and tenants
-
+ Problem Statement
+Lack of a comprehensive platform for easy apartment searching and booking:
+Finding apartments for rent is often time-consuming, and renters face multiple challenges when trying to gather information. Current platforms often lack integrated services such as detailed house descriptions, images, availability calendars, and streamlined booking and payment processes. According to a recent survey, 70% of renters report frustration with having to contact property owners manually to confirm availability or inquire about payments, leading to inefficiency and potential missed opportunities. This highlights the need for a more seamless, user-friendly system that enables renters to search, view, and book apartments effortlessly in one place.
 B. Project Description:
 
 The Property Rental Management System is designed to streamline property management tasks for landlords, property managers, and tenants. It offers features like property listing management, tenant application processing, lease tracking, online rent payments, and maintenance request handling. The system aims to simplify communication between all parties, improve tenant satisfaction, and enhance operational efficiency. Additionally, it includes financial reporting, vacancy tracking, and automated notifications to ensure timely lease renewals and payments, ultimately providing a seamless rental experience.
+
+
+Objectives
+Simplify Apartment Searching
+Provide an intuitive search feature that allows users to easily find apartments based on location, price, and other preferences.
+
+Improve Property Visibility
+Display detailed property information with high-quality images, house descriptions, and amenities to help users make informed decisions.
+
+Streamline Rental Availability
+Enable users to check the availability of apartments in real-time by integrating rental calendars for each listing.
+
+Facilitate Smooth Booking Process
+Allow users to book apartments directly through the platform, with clear steps for selecting available dates and confirming reservations.
+
+Integrated Payment Methods
+Incorporate secure, user-friendly payment options that make it easy for renters to pay deposits or fees when booking a property.
+
+
 
 C. Project Objectives:
 
@@ -20,16 +36,15 @@ The primary objectives of the Property Rental Management System are to streamlin
 
 To develop a Travel booking System APP that will help manage the ______ with the following features:
 
-Admin Booking Management:
-Admins manage all booking activities, ensuring availability and accurate scheduling.
- Profit Monitoring:
-The system allows admins to track and analyze profit margins, aiding financial decision-making.
- Payment Processing:
-Facilitates secure payment collection and transaction tracking for room bookings.
- Room Management:
-Admins can add, delete, and update room details to maintain an accurate listing.
- User-Friendly Booking:
-Users can easily browse rooms and services, then book based on their specific needs
+Project Features Apartment Search by Location Users can input a location (city, neighborhood, etc.) and see available listings based on their criteria, including filters for price, size, and amenities.
+
+View Detailed House Information and Images Each property listing includes detailed descriptions, amenities, high-resolution images, and floor plans to give users a comprehensive view of the house.
+
+Real-Time Rental Availability Each apartment listing features an integrated calendar showing available rental dates, allowing users to plan their rental period easily.
+
+Listing Navigation A user-friendly interface that lets users smoothly navigate between listings, view different properties, and save favorites for later reference.
+
+Booking and Payment Integration Once a user finds a property, they can book it directly through the platform with payment options (credit card, bank transfer, etc.) integrated for smooth transaction processing.
 
 E. Project Deliverables
 
@@ -52,7 +67,7 @@ Group Members:
 
 Mary Joy Rodrigora, Joshua Nato, John Ruzzel Bacia, Carlo Broa
 
-G. Estimated Project Duration:  1Year including research, design, development, testing, and deployment
+G. Estimated Project Duration:  1 Year  including research, design, development, testing, and deployment
 
 
 ![1241](https://github.com/user-attachments/assets/187346c1-296e-4505-a417-e87c60ac6ba5)
