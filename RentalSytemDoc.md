@@ -62,69 +62,28 @@ Work breakdown Structure
 
 Functional Requirements
 
-User Requirements
+Project Features
+ Apartment Search by Location
+Users can input a location (city, neighborhood, etc.) and see available listings based on their criteria, including filters for price, size, and amenities.
 
-•	Booking Status
-•	Explanation: Allows users to view the current status of their room bookings. This could include information on whether a room is booked, available, or pending confirmation.
+ View Detailed House Information and Images
+Each property listing includes detailed descriptions, amenities, high-resolution images, and floor plans to give users a comprehensive view of the house.
 
-•	News Letter:
-•	Explanation: A feature for subscribing to or managing newsletters. This could involve sending out updates, promotions, or news related to the service or business.
+ Real-Time Rental Availability
+Each apartment listing features an integrated calendar showing available rental dates, allowing users to plan their rental period easily.
 
+Listing Navigation
+A user-friendly interface that lets users smoothly navigate between listings, view different properties, and save favorites for later reference.
 
-
-•	Manage Room Booking:
-Explanation: Enables users to create, modify, or cancel room bookings. This involves selecting rooms, specifying dates, and confirming reservations.
-
-•	Manage Payment:
-Explanation: Handles payment processing for room bookings. This includes tracking payments, processing refunds, and managing payment methods.
-
-•	View Profit:
-Explanation: Provides a view of financial performance, including revenue and profit from room bookings. Useful for monitoring and analyzing the business's financial health.
-
-•	Manage Users:
-Explanation: Admin functionality for managing user accounts. This includes adding new users, updating user information, and deleting accounts.
-
-•	Room Status:
-Explanation: Displays the current status of rooms. This might show if rooms are occupied, available, or under maintenance.
-
-•	Add Rooms:
-Explanation: Allows users or administrators to add new rooms to the system. This involves entering details like room type, capacity, and amenities.
-
-•	Update Rooms:
- 
-Explanation: Enables modifications to existing room details. This could involve changing room descriptions, updating availability, or adjusting rates.
-
-•	Delete Rooms:
-Explanation: Permits the removal of rooms from the system. This might be necessary if rooms are no longer available or if there are changes to the facility.
-
-
-•	Users and Their Corresponding System Features General Users:
-Booking Status: View the status of their own bookings.
-Manage Room Booking: Make, modify, or cancel room bookings.
-Room Status: See if a room is available or occupied (if applicable to the user’s role).
-
-
-
-
-
-•	Administrative Users:
-
-Booking Status: View the status of all bookings (for management purposes). News Letter: Create and manage newsletters, subscribe users to newsletters.
-Manage Room Booking: Oversee and manage bookings, including those made by other users. Manage Payment: Process and track payments, handle refunds, and manage payment methods. View Profit: Access financial reports and profit data.
-Manage Users: Create, update, or delete user accounts.
-Room Status: Monitor the status of all rooms (for operational oversight).
- 
-•	Facility Managers:
-
-
-Room Status: View current room status and manage room availability. Add Rooms: Add new rooms to the system.
-Update Rooms: Modify details of existing rooms. Delete Rooms: Remove rooms from the system.
+Booking and Payment Integration
+Once a user finds a property, they can book it directly through the platform with payment options (credit card, bank transfer, etc.) integrated for smooth transaction processing.
 
 
 Use Cases 
 
 
-![13](https://github.com/user-attachments/assets/e05fbe3f-3825-48e7-a6d5-30f037e4e448)
+![1241](https://github.com/user-attachments/assets/1fd563b7-b14e-4a51-9dda-ab625b61cfdc)
+
 
 
 | FIELD NAME | DESCRIPTION      | DATA TYPE     | LENGTH | SAMPLE              |
